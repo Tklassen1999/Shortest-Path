@@ -11,7 +11,7 @@ import time
 #https://www.obeythetestinggoat.com/
 
 
-cityCount = 6
+cityCount = 600
 rows, cols = (cityCount, cityCount)
 cityMap = [[0 for i in range(cols)] for j in range(rows)]
 path =[0 for i in range(cols)]
